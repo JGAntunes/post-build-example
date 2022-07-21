@@ -1,5 +1,6 @@
 {
-  "name": "post-build-plugin-example",
+  "type": "module",
+  "name": "plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
