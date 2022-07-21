@@ -1,0 +1,11 @@
+node_modules
+research
+.DS_Store
+terraform
+.netlify
+yarn-error.log
+coverage
+.eslintcache
+.cache
+.vscode
+build-file*.json
